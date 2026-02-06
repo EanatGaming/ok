@@ -1,0 +1,14 @@
+{
+    "host": "scoresmp-zFxf.aternos.me:20945", 
+    "port": 20945,
+    "username": "AFK_Pro_Bot",
+    "version": "1.21.11",
+    "reconnect_delay": 5000,
+    "movement_interval": 3000,
+    "anti_kick_interval": 60000,
+    "chat_messages": [
+        "Keeping the server online!",
+        "Server is active! 🚀",
+        "Hello everyone!"
+    ]
+}
